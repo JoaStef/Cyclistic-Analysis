@@ -1,3 +1,6 @@
+![Cyclistic Cover]
+](https://github.com/JoaStef/Cyclistic-Analysis/blob/e2d7ad09147c0c12ccc49b1ed51a48050a919427/rental-4045295%20(1).jpg)
+
 # Cyclistic Analysis
 
 Welcome to my Cyclistic Analysis project! 🚴‍♀️
