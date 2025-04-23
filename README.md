@@ -1,9 +1,6 @@
-![Cyclistic Cover]
-](https://github.com/JoaStef/Cyclistic-Analysis/blob/e2d7ad09147c0c12ccc49b1ed51a48050a919427/rental-4045295%20(1).jpg)
-
 # Cyclistic Analysis
 
-Welcome to my Cyclistic Analysis project! 🚴‍♀️
+Welcome to my Cyclistic Analysis project! 
 
 This project is about analyzing Cyclistic bike-share data to uncover trends and user behaviors. This project also describes targeted marketing to convert casual riders into annual members. Below, you'll find details about the project and how everything is organized.
 
@@ -32,6 +29,18 @@ Cyclistic Analysis/
 - **Data Description**: Includes variables such as: date, time, bike type, station names for beginning and end of trips, as well as limited voluntary information such as birthdate and gender.
 - **Data Downloads**: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html), [Divvy 2019 Q1
 ](https://docs.google.com/spreadsheets/d/1uCTsHlZLm4L7-ueaSLwDg0ut3BP_V4mKDo2IMpaXrk4/template/preview?resourcekey=0-dQAUjAu2UUCsLEQQt20PDA#gid=1797029090), [Divvy 2020 Q1](https://docs.google.com/spreadsheets/d/179QVLO_yu5BJEKFVZShsKag74ZaUYIF6FevLYzs3hRc/template/preview#gid=640449855)
+
+## Findings
+Here are key insights from the analysis:
+1. **Peak Useage**: Most trips occurred during weekedays between 7am and 9am, coinciding with expected commuting hours.
+2. **User Trends**: Casual riders as noted in backgroound, prefer weekends, while members use bikes for weekday travel.
+3. ** Add ADDITIONAL INSIGHTS
+4. **
+5. **
+6. **
+## Visualizations
+Here are some of the visualizations from my analysis showing the trends noted above:
+
 ## Getting Started
 1. Clone the repository:
    ```bash
