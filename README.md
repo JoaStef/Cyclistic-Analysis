@@ -40,20 +40,36 @@ Here are key insights from the analysis:
 6. **
 ## Visualizations
 Here are some of the visualizations from my analysis showing the trends noted above:
+
 ![Average Total Ride Duration for All Riders](Visualizations/Average_durationPlot.jpg)
 *Figure 1: Shows the total average ride duration for all riders by weekday
+
 ![Total Rides by Type by Weekday](Visualizations/NumberofRides-1.png)
 *Figure 2: The total number of rides by weekday and by rider type
+
 ![Number of Rides by Month and Rider Type Each Year](Visualizations/NumberofRidesbyMoRiderbyYear-1.png)
 #Figure 3: Shows first quarter of 2019 and 2020 total rides for both rider types
+
 ![Most Popular Days for Riders in January](Visualizations/PopularDaysforRidersJanuary-1.png)
 *Figure 4: Popular days in January
+
 ![Most Popular Days for Riders in February](Visualizations/MostPopularDaysforRidersinFebruary.jpg)
 *Figure 5: Popular days in February
+
 ![Most Popular Days for Riders in March](Visualizations/MostPopularDaysforRidersinMarch-1.png)
 *Figure 6: Popular days in March
 
+![Popular Times of Day by Weekday and Rider](Visualizations/PopularTimesofDaybyWeekdayandRiderType-1.png)
+*Figure 7: Popular Times of day showing peaks in ridership
 
+![Rides by Weekday and Time](Visualizations/Rides by Weekday and Time of Day-1.png)
+*Figure 8: Depicts increase in number of rides after 12pm
+
+![Total Number of Rides Before and After 12pm](Visualizations/RidesBeforeandAfter12PM-1.png)
+*Figure 9: Differentiation of total rides by Members Casual Riders by 12pm
+
+![Total Number of Rides per Month](Visualizations/TotalRidesbyMonth-1.png)
+*Figure 10: Shows ridership totals in the first quarter by month
 
 ## Getting Started
 1. Clone the repository:
