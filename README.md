@@ -14,9 +14,19 @@ This project is about analyzing Cyclistic bike-share data to uncover trends and 
 ## Repository Structure
 ```
 Cyclistic Analysis/
-├── README.md            # Overview of the project
-├── visualizations/      # Graphs, charts, or final visuals
-```
+├── README.md            
+├── visualizations/      
+    ├──Average_durationPlot.jpg 
+    ├──NumberofRides-1.png
+    ├──NumberofRidesbyMoRiderbyYear-1.png
+    ├──PopularDaysforRidersJanuary-1.png
+    ├──MostPopularDaysforRidersinFebruary.jpg
+    ├──MostPopularDaysforRidersinMarch-1.png
+    ├──PopularTimesofDaybyWeekdayandRiderType-1.png
+    ├──RidesbyWeekdaandTimeofDay.png
+    ├──RidesBeforeandAfter12PM-1.png
+    ├──TotalRidesbyMonth-1.png
+
 
 ## Tools and Technologies
 - **R Programming**: tidyverse, conflicted, dplyr, lubridate, readr, ggplot2, leaflet, stringr
@@ -64,8 +74,6 @@ Here are some of the visualizations from my analysis showing the trends noted ab
 
 ![Rides by Weekday and Time](Visualizations/Rides by Weekday and Timeof Day-1.png)
 *Figure 8: Depicts increase in number of rides after 12pm
-
-![Rides by Weekday and Time]
 
 ![Total Number of Rides Before and After 12pm](Visualizations/RidesBeforeandAfter12PM-1.png)
 *Figure 9: Differentiation of total rides by Members Casual Riders by 12pm
