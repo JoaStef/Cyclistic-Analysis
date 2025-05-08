@@ -62,8 +62,10 @@ Here are some of the visualizations from my analysis showing the trends noted ab
 ![Popular Times of Day by Weekday and Rider](Visualizations/PopularTimesofDaybyWeekdayandRiderType-1.png)
 *Figure 7: Popular Times of day showing peaks in ridership
 
-![Rides by Weekday and Time](Visualizations/Rides by Weekday and Time of Day-1.png)
+![Rides by Weekday and Time](Visualizations/Rides by Weekday and Timeof Day-1.png)
 *Figure 8: Depicts increase in number of rides after 12pm
+
+![Rides by Weekday and Time]
 
 ![Total Number of Rides Before and After 12pm](Visualizations/RidesBeforeandAfter12PM-1.png)
 *Figure 9: Differentiation of total rides by Members Casual Riders by 12pm
