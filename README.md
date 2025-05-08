@@ -15,10 +15,7 @@ This project is about analyzing Cyclistic bike-share data to uncover trends and 
 ```
 Cyclistic Analysis/
 ├── README.md            # Overview of the project
-├── data/                # Datasets or data placeholders
-├── scripts/             # R scripts for analysis
 ├── visualizations/      # Graphs, charts, or final visuals
-└── docs/                # Detailed documentation or reports
 ```
 
 ## Tools and Technologies
@@ -32,12 +29,15 @@ Cyclistic Analysis/
 
 ## Findings
 Here are key insights from the analysis:
-1. **Peak Useage**: Most trips occurred during weekedays between 7am and 9am, coinciding with expected commuting hours.
+1. **Peak Useage**: Most trips occurred during weekedays between 7am and 9am, coinciding with expected commuting hours for Members. Weekends for Casual riders.
 2. **User Trends**: Casual riders as noted in backgroound, prefer weekends, while members use bikes for weekday travel.
-3. ** Add ADDITIONAL INSIGHTS
-4. **
-5. **
-6. **
+Ride Duration stays relatively steady for members, and picks up at weeks end through the weekend for casual riders. Patterns of use are similar through January and February and increase in March, with casual ridership nearly doubling. Across all months weekend ridership is very popular within the mid morning to late afternoon hours. Through all weedkays rides trend up after 12pm. Without using personal demographics, further analysis needed to determine targeted advertisements like ride hotspots, which could determine if numbers generated are tourist heavy or local frequented areas.  
+
+## Recommendations
+1. Pricing structure revisit to determine how this could be incentivized for membership
+2. Additional hotspot analysis for pinpoint targeted ads
+3. incentive heavy advertising on peak hours and days for casual ridership.
+
 ## Visualizations
 Here are some of the visualizations from my analysis showing the trends noted above:
 
